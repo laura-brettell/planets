@@ -1,1 +1,3 @@
 This is a very silly file indeed
+
+I am at a git workshop
